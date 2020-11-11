@@ -283,9 +283,9 @@ void display(void)
 	//glLoadIdentity();
 	glPushMatrix();
 	glTranslatef(posX, posY, posZ);  // Using to transle keyboard movements
-	glTranslatef(60, 70, 0);
-	glRotatef(angle, 0, 0, 1);
-	glTranslatef(-60, -70, 0);
+	glTranslatef(60, 70, 0);	// translate car to the center
+	glRotatef(angle, 0, 0, 1);	// rotating the car 
+	glTranslatef(-60, -70, 0);	// translating the car to the origin
 	drawCar();
 	glPopMatrix();
 	glFlush();     /* execute drawing commands in buffer */

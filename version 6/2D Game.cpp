@@ -467,7 +467,7 @@ int main(int argc, char** argv)
 	glutDisplayFunc(display);
 	glutReshapeFunc(reshape);
 	randomObstacles();	// calling the random Obstacle generator
-	//glutKeyboardFunc(keyboardCar);
+	//glutKeyboardFunc(keyboardCar); not using anymore
 	glutIdleFunc(idle);
 	glutKeyboardUpFunc(keyUp);
 	glutKeyboardFunc(keyPressed);

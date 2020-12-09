@@ -1,5 +1,6 @@
 # 2D-CAR-GAME
 Building a simple 2D game assignment under 3D Graphics module University of Westminster.
+OpenGl/C++
 
 
 ### Game Intro
@@ -10,7 +11,9 @@ The score starts from 50. A successful game will lead to the award of 50 points 
 The score will accumulate until the application is closed.
 
 ```
-1. Controls - use W/A/S/D keys to move the car. R+A rotates car to the left, R+D roatates car to the right.
+1. Controls - use W/A/S/D keys to move the car.
+R+A rotates car to the left,
+R+D roatates car to the right.
 (Right click on the mouse to turn on/off the grid)
 ```
 <img src = "https://github.com/ANDREWDESILVASL/2D-CAR-GAME/blob/main/Images/game.JPG">

@@ -16,10 +16,10 @@ R+A rotates car to the left,
 R+D roatates car to the right.
 (Right click on the mouse to turn on/off the grid)
 ```
-<img src = "https://github.com/ANDREWDESILVASL/2D-CAR-GAME/blob/main/Images/game.JPG">
+<img src = "https://github.com/mr-desilva/2D-CAR-GAME/blob/main/Images/game.JPG">
 
 ```
 2. Console output
 ```
-<img src = "https://github.com/ANDREWDESILVASL/2D-CAR-GAME/blob/main/Images/console.JPG">
+<img src = "https://github.com/mr-desilva/2D-CAR-GAME/blob/main/Images/console.JPG">
 
